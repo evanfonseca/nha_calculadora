@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/build/intermediates/res/merged/debug/drawable/btn_gray.xml",
+        "source": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/src/main/res/drawable/btn_gray.xml"
+    },
+    {
+        "merged": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/build/intermediates/res/merged/debug/drawable/btn_yellow.xml",
+        "source": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/src/main/res/drawable/btn_yellow.xml"
+    },
+    {
+        "merged": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/build/intermediates/res/merged/debug/drawable/btn_black.xml",
+        "source": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/src/main/res/drawable/btn_black.xml"
+    },
+    {
+        "merged": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/build/intermediates/res/merged/debug/drawable/btn_blue.xml",
+        "source": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/src/main/res/drawable/btn_blue.xml"
+    },
+    {
+        "merged": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/build/intermediates/res/merged/debug/drawable/btn_green.xml",
+        "source": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/src/main/res/drawable/btn_green.xml"
+    },
+    {
+        "merged": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/build/intermediates/res/merged/debug/drawable/btn_red.xml",
+        "source": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/src/main/res/drawable/btn_red.xml"
+    },
+    {
+        "merged": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/build/intermediates/res/merged/debug/drawable/btn_purple.xml",
+        "source": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/src/main/res/drawable/btn_purple.xml"
+    },
+    {
+        "merged": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/build/intermediates/res/merged/debug/drawable/img1.jpg",
+        "source": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/src/main/res/drawable/img1.jpg"
+    },
+    {
+        "merged": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/build/intermediates/res/merged/debug/drawable/ima2.jpg",
+        "source": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/src/main/res/drawable/ima2.jpg"
+    }
+]

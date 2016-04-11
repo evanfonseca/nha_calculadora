@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_raiz.png",
+        "source": "/Users/enfonseca/AndroidStudioProjects/nha_calc/app/src/main/res/drawable-hdpi/img_raiz.png"
+    }
+]

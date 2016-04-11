@@ -20,9 +20,10 @@
         <ScrollView
 	    android:id="@+id/SCROLLER_ID"
 	    android:layout_width="fill_parent"
-	    android:layout_height="wrap_content"
+	    android:layout_height="match_parent"
 	    android:scrollbars="vertical"
-	    android:fillViewport="true">
+	    android:fillViewport="true"
+            android:layout_weight="0.7">
 
         <EditText
             android:id="@+id/editText1"
@@ -40,6 +41,12 @@
             />
 
         </ScrollView>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3">
 
         <TableRow
             android:id="@+id/tableRow6"
@@ -279,9 +286,10 @@
                 android:layout_weight="1" />
             
         </TableRow>
-        
-        
-        
+
+
+        </LinearLayout>
+
     </LinearLayout>
 
 </LinearLayout>
